@@ -1,0 +1,8 @@
+/* CSS global */
+@import "./global.css";
+
+/* CSS de cada seção */
+@import "./header.css";
+@import "./apresentacao.css";
+@import "./projetos.css";
+@import "./contato.css";
